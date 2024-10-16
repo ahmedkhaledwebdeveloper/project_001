@@ -1,5 +1,4 @@
 # khaled_code_lab
-Web Developing
 
 live preview
-https://ahmedkhaledwebdeveloper.github.io/khaled_code_lab/
+https://ahmedkhaledwebdeveloper.github.io/project_001/
